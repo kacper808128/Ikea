@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Karta IKEA</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #f9f9f9;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    a {
+      display: block;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <a href="ikea dla Konia.pdf" download>
+    <img src="A_photograph_features_a_small,_rectangular,_open_b.png" alt="Karta IKEA">
+  </a>
+</body>
+</html>
